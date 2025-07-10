@@ -1,0 +1,7 @@
+display: flex "ajusta los elemntos del contenedor en filas o columnas"
+
+flex-wrap: wrap "ajusta los elemntos haciendo salto de linea"(nowrap/wrap-reverse)
+
+gap: se utiliza para definir el espacio entre las filas y columnas en diseños flexbox, grid y 
+de múltiples columnas. En el contexto de flexbox, gap controla el espaciado entre los elementos flexibles 
+cuando están en una sola línea
